@@ -1,13 +1,60 @@
-# マタニティ - Maternity Tracker
+# mamani（ままに）- サポートページ
 
-妊娠中の体調・体重・症状を記録するiOSアプリです。
+mamaniは、妊娠中から産後3年までの赤ちゃんの成長とママの体調を記録・確認できるiOSアプリです。
 
-## サポート / Support
+## お問い合わせ・サポート
 
-ご不明な点やご要望は [GitHub Issues](https://github.com/sugar-penguin-lullaby/maternity-tracker-support/issues) からお問い合わせください。
+アプリの使い方やご不明な点がございましたら、以下の方法でお問い合わせください。
 
-## プライバシーポリシー / Privacy Policy
+- **GitHub Issues**: [こちらから質問・ご要望を送信](https://github.com/sugar-penguin-lullaby/maternity-tracker-support/issues/new)
+- **既知の問題や回答済みの質問**: [Issues一覧](https://github.com/sugar-penguin-lullaby/maternity-tracker-support/issues?q=is%3Aissue)
 
-本アプリは入力されたデータをデバイス内にのみ保存します。外部サーバーへの送信は一切行いません。
+お問い合わせには通常3営業日以内にご返答いたします。
 
-This app stores all data locally on your device only. No data is sent to external servers.
+## よくある質問（FAQ）
+
+### アプリの基本
+
+**Q: アプリのデータはどこに保存されますか？**
+A: すべてのデータはお使いのiPhoneまたはiPad内にのみ保存されます。外部サーバーへの送信は一切行いません。
+
+**Q: 出産予定日を変更したいのですが？**
+A: アプリの「設定」タブからいつでも変更できます。変更すると妊娠週数や生後日数の計算が自動で更新されます。
+
+**Q: 出産後も使えますか？**
+A: はい。出産予定日を過ぎると自動的に産後モードに切り替わり、お子さまの月齢ごとの成長情報が表示されます。生後36ヶ月（3歳）まで対応しています。
+
+### データについて
+
+**Q: データのバックアップはできますか？**
+A: 現在、アプリ内でのバックアップ機能は提供しておりません。iCloud バックアップを有効にしている場合、デバイスのバックアップに含まれます。
+
+**Q: データをリセットしたいのですが？**
+A: 「設定」タブの「データ管理」セクションから「すべてのデータをリセット」を選択してください。この操作は取り消せませんのでご注意ください。
+
+### 医学情報について
+
+**Q: アプリに表示される医学情報の出典は？**
+A: アプリ内の情報は以下の公的機関・学会のガイドラインを参考にしています。詳細な出典はアプリの赤ちゃんタブ内に記載しています。
+
+- 厚生労働省（妊娠・出産に関するガイドライン、乳幼児身体発育調査）
+- 日本産科婦人科学会（産婦人科診療ガイドライン）
+- 日本小児科学会（乳幼児健康診査身体診察マニュアル）
+- 国立成育医療研究センター
+- WHO（Fetal Growth Charts / Child Growth Standards）
+
+**Q: アプリの情報は医師の診察の代わりになりますか？**
+A: いいえ。アプリに表示される情報は一般的な目安であり、医療上の判断を行うものではありません。個別の症状や不安については、必ずかかりつけの医師にご相談ください。
+
+## 対応環境
+
+- iOS 17.0 以降
+- iPhone / iPad
+
+## プライバシーポリシー
+
+[プライバシーポリシーはこちら](privacy.md)
+
+## Support (English)
+
+If you have questions or need help with the app, please [create an issue](https://github.com/sugar-penguin-lullaby/maternity-tracker-support/issues/new) and we'll respond within 3 business days.
